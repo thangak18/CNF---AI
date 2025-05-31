@@ -1,0 +1,21 @@
+Solution with PySAT:
+G, 2, 2, 2, 1
+G, T, T, 2, T
+G, 3, G, G, 2
+T, G, 2, 3, T
+G, 2, T, T, G
+
+Solution with Brute Force:
+G, 2, 2, 2, 1
+G, T, T, 2, T
+T, 3, G, G, 2
+G, G, 2, 3, T
+T, 2, T, T, G
+
+Solution with Backtracking:
+G, 2, 2, 2, 1
+G, T, T, 2, T
+T, 3, G, G, 2
+G, G, 2, 3, T
+T, 2, T, T, G
+

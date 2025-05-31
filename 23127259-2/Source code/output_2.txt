@@ -1,0 +1,26 @@
+Solution with PySAT:
+T, G, 2, T, T, T, T, 1, G, T, T
+2, 2, G, T, 4, G, G, 3, 3, T, 3
+G, T, 5, 4, G, 3, T, G, T, 2, G
+2, T, T, T, T, T, 2, 2, G, 1, G
+1, G, 5, 5, G, G, 2, G, 1, G, 2
+2, 3, T, T, 2, G, T, G, 2, T, T
+T, T, 5, G, T, 3, 2, T, G, 4, G
+G, 4, T, T, T, G, G, 2, T, T, G
+G, 3, T, 5, 3, 2, G, G, G, T, 4
+3, T, G, T, G, 2, T, T, 4, T, T
+T, T, 3, G, 1, 2, T, 3, G, T, 3
+
+Solution with Backtracking:
+T, G, 2, T, T, T, T, 1, G, T, T
+2, 2, G, T, 4, G, G, 3, 3, T, 3
+G, T, 5, 4, G, 3, T, G, T, 2, G
+2, T, T, T, T, T, 2, 2, G, 1, G
+1, G, 5, 5, G, G, 2, G, 1, G, 2
+2, 3, T, T, 2, G, T, G, 2, T, T
+T, T, 5, G, T, 3, 2, T, G, 4, G
+G, 4, T, T, T, G, G, 2, T, T, G
+T, 3, G, 5, 3, 2, G, G, G, T, 4
+3, G, T, T, G, 2, T, T, 4, T, T
+T, T, 3, G, 1, 2, T, 3, G, T, 3
+
