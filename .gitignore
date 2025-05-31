@@ -1,0 +1,17 @@
+# Bỏ qua file build của C++
+*.o
+*.out
+*.exe
+
+# Bỏ qua thư mục build
+build/
+
+# Bỏ qua file log
+*.log
+
+# Bỏ qua file IDE (VSCode, JetBrains)
+.vscode/
+.idea/
+
+# Ẩn file hệ thống macOS
+.DS_Store
